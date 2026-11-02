@@ -1,0 +1,10 @@
+# Ambientes y archivos temporales (no se suben a GitHub)
+.tox/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+.DS_Store
+
+# Archivos generados al empaquetar dentro de package-src
+package-src/dist/
